@@ -1,0 +1,146 @@
+body{
+  margin:0;
+  color: #160040;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+ div{
+   background-color:
+   #F7EFE5;
+ }
+ h1{
+   font-family: 'Sacramento', cursive;
+   font-size: 60px;
+   padding-left: 20px;
+   padding-top:  60px;
+   margin:0 auto 0 auto;
+   color: #8E05C2;
+   line-height: 2;
+ }
+h2{
+  color: #8E05C2;
+  font-weight: normal;
+  font-family: 'Monteserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+h3{
+color:#4C0070;
+font-family: 'Monteserrat', sans-serif;
+font-size: 1.5rem;
+padding-bottom: 5px;
+}
+
+hr{
+  color: #86A3B8;
+  border: dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+span{
+  text-decoration: underline;
+}
+a{
+  color: #8E05C2;
+  font-family: 'Monteserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.top-container{
+color: #EAF6F6;
+font-family:'Monteserrat',sans-serif;
+position:relative;
+padding-top: 100px;
+}
+.intro{
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+.cloud-top{
+  width: 10%;
+  position: absolute;
+  right:250px;
+  top:60px;
+}
+.cloud-bottom{
+  width: 10%;
+  position: absolute;
+  left:250px;
+  bottom: 413px;
+}
+.middle-container{
+font-family: 'Monteserrat', sans-serif;
+padding: 100px 0;
+}
+.profile{
+  margin: 0 auto 0 auto;
+  font-family: 'Monteserrat', sans-serif;
+}
+.ban{
+  height: 120px;
+  width: 120px;
+}
+.p1{
+  line-height: 2;
+}
+.p2{
+  line-height: 2;
+}
+.ron{
+  font-size: 40px;
+  padding-left:20px;
+  padding-bottom:20px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.skr1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skr2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.bottom-container{
+font-family: 'Monteserrat', sans-serif;
+background-color: #4C0070;
+padding: 40px 0 20px;
+}
+.contact-me{
+font-family: 'Monteserrat', sans-serif;
+margin: 40px auto 40px;
+width: 30%;
+}
+.copyright{
+  font-family: 'Monteserrat', sans-serif;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 10px 0;
+}
+.btn {
+  line-height: 6;
+  background: #79018C;
+  background-image: linear-gradient(top, #79018C, #700B97);
+  background-image: linear-gradient(to bottom, #79018C, #700B97);
+  border-radius: 8px;
+  font-family: 'Monteserrat', sans-serif;
+ color: #ffffff;
+ font-size: 15px;
+ padding: 10px 20px 10px 20px;
+ text-decoration: none;
+}
+.btn:hover {
+  background: #7A0BC0;
+  background-image: linear-gradient(top, #7A0BC0, #79018C);
+  background-image: linear-gradient(to bottom, #7A0BC0, #79018C);
+  text-decoration: none;
+}
