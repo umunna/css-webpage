@@ -1,14 +1,14 @@
-body{
+body {
   margin:0;
   color: #160040;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
- div{
+ div {
    background-color:
    #F7EFE5;
  }
- h1{
+ h1 {
    font-family: 'Sacramento', cursive;
    font-size: 60px;
    padding-left: 20px;
@@ -17,110 +17,110 @@ body{
    color: #8E05C2;
    line-height: 2;
  }
-h2{
+h2 {
   color: #8E05C2;
   font-weight: normal;
   font-family: 'Monteserrat', sans-serif;
   font-size: 2.5rem;
   padding-bottom: 10px;
 }
-h3{
+h3 {
 color:#4C0070;
 font-family: 'Monteserrat', sans-serif;
 font-size: 1.5rem;
 padding-bottom: 5px;
 }
 
-hr{
+h {
   color: #86A3B8;
   border: dotted 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
 }
-span{
+span {
   text-decoration: underline;
 }
-a{
+a {
   color: #8E05C2;
   font-family: 'Monteserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
-a:hover{
+a:hover {
   color:#EAF6F6;
 }
-.top-container{
+.top-container {
 color: #EAF6F6;
 font-family:'Monteserrat',sans-serif;
 position:relative;
 padding-top: 100px;
 }
-.intro{
+.intro {
   width: 30%;
   margin: 0 auto 0 auto;
 }
-.cloud-top{
+.cloud-top {
   width: 10%;
   position: absolute;
   right:250px;
   top:60px;
 }
-.cloud-bottom{
+.cloud-bottom {
   width: 10%;
   position: absolute;
   left:250px;
   bottom: 413px;
 }
-.middle-container{
+.middle-container {
 font-family: 'Monteserrat', sans-serif;
 padding: 100px 0;
 }
-.profile{
+.profile {
   margin: 0 auto 0 auto;
   font-family: 'Monteserrat', sans-serif;
 }
-.ban{
+.ban {
   height: 120px;
   width: 120px;
 }
-.p1{
+.p1 {
   line-height: 2;
 }
-.p2{
+.p2 {
   line-height: 2;
 }
-.ron{
+.ron {
   font-size: 40px;
   padding-left:20px;
   padding-bottom:20px;
 }
-.skill-row{
+.skill-row {
   margin: 100px auto 100px auto;
   text-align: left;
   width: 50%;
 }
-.skr1{
+.skr1 {
   width: 25%;
   float: left;
   margin-right: 30px;
 }
-.skr2{
+.skr2 {
   width: 25%;
   float: right;
   margin-left: 30px;
 }
-.bottom-container{
+.bottom-container {
 font-family: 'Monteserrat', sans-serif;
 background-color: #4C0070;
 padding: 40px 0 20px;
 }
-.contact-me{
+.contact-me {
 font-family: 'Monteserrat', sans-serif;
 margin: 40px auto 40px;
 width: 30%;
 }
-.copyright{
+.copyright {
   font-family: 'Monteserrat', sans-serif;
   color: #EAF6F6;
   font-size: 0.75rem;
